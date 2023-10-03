@@ -1,2 +1,2 @@
 # growth-template
- wordpress custom template
+ Custom Wordpress theme template
