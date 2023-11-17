@@ -2,11 +2,7 @@
  Custom Wordpress theme template
 
  ## Tech Stack:
- HTML
- CSS
- JavaScript
- PHP
- Bootstrap
+ HTML, CSS, JavaScript, PHP, Bootstrap
 
  Features ACF input fields so the website is completely customizable for the client. 
 
